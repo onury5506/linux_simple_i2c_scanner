@@ -12,8 +12,13 @@ gcc main.c -std=gnu99
 Example run : 
 
 root@LicheePi:~/test/i2c# gcc main.c -std=gnu99
+
 root@LicheePi:~/test/i2c# ./a.out
+
 i2c scanner
+
 0) /dev/i2c-0
+
 Select an device : 0
+
 finded 0x3C

@@ -48,7 +48,7 @@ int main(){
                         if(res<0){
                                 //printf("%d\n",i);
                         }else{
-                                printf("finded 0x%X\n",i);
+                                printf("found 0x%X\n",i);
                         }
                 }else{
                         //printf("err %d\n",i);

@@ -6,6 +6,7 @@ This application is a simple i2c scanner for linux systems. I tested it with lic
 You can run this application with following commands : 
 
 gcc main.c -std=gnu99
+
 ./a.out
 
 

@@ -22,4 +22,4 @@ i2c scanner
 
 Select an device : 0
 
-finded 0x3C
+found 0x3C
